@@ -7,7 +7,7 @@ public class mojaPiataAplikacja {
 
         Scanner scanner = new Scanner(System.in);
 
-        //pobranie zmiennych
+        //pobranie danych
         System.out.print("Podaj liczbe wierszy: ");
         int w = scanner.nextInt();
         System.out.print("Podaj liczbe kolumn: ");
