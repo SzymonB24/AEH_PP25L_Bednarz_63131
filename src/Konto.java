@@ -25,11 +25,7 @@ public class Konto {
 
     // metody klasy określające akcje możliwe do wykonania przez obiekt
     public void basic(){
-        System.out.println("Cześć " + forename + " " + surname + "! " + "Stan konta : " + stanKonta + " zł");
-    }
-
-    public void actual(){
-        System.out.println(" Stan konta wynosi: " + stanKonta + " zł.");
+        System.out.println("Cześć " + forename + " " + surname + "! " + "Stan konta : " + stanKonta + " zł.");
     }
 
     // metoda wpłaty srodkow
@@ -46,7 +42,7 @@ public class Konto {
             System.out.println("Pobrano " + cash + " zł.");
         }
         else {
-            System.out.println("brak wystarczających środków na koncie aby wypłacić " + cash + " zł");
+            System.out.println("brak wystarczających środków na koncie aby wypłacić " + cash + " zł.");
         }
         return stanKonta;
     }
