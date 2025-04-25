@@ -10,7 +10,7 @@ public class Konto {
     /**
      * Konstruktor z parametrami, które możemy podać przy jego tworzeniu,
      * wykorzystanie "this" pozwala m.in. na skorzystanie z tych samych nazw
-     * pól i zmiennych 
+     * pól i zmiennych
      */
 
     public Konto(String forename, String surname, String nrAcc, String mail, long phone, double stanKonta) {
