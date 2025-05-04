@@ -13,6 +13,5 @@ public class mojaDziewiataAplikacja {
         magazyn.sprawdzZajetosc();
         magazyn.aktualizujKontakt();
         magazyn.sprawdzZajetosc();
-
     }
 }
