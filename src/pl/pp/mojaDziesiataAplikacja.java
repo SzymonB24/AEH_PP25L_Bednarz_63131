@@ -25,7 +25,6 @@ public class mojaDziesiataAplikacja {
                 sumaDodatnich += i;
             }
         }
-
         return new int[]{liczbaUjemnych, sumaDodatnich};
     }
 }
