@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mojaSzóstaAplikacja {
+public class mojaSzostaAplikacja {
 
     //oblicznie silni iteracyjnie
     public static long silniaIter(long n) {
